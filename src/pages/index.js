@@ -164,7 +164,7 @@ export default function Home() {
               Powered by <strong>ChatGPT and Vercel Edge Functions</strong>.
             </span>
             <span className="text-sm xl:text-base">
-              Based on
+              
               <Link
                 className="text-blue-600 font-bold"
                 target={"_blank"}
