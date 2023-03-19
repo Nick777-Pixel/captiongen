@@ -161,9 +161,6 @@ export default function Home() {
         <footer className="w-full flex sm:flex-row flex-col-reverse gap-4 items-center max-w-7xl p-4 sm:px-12 h-fit">
           <div className="flex flex-col w-full">
             <span className="text-sm xl:text-base">
-              Powered by <strong>ChatGPT and Vercel Edge Functions</strong>.
-            </span>
-            <span className="text-sm xl:text-base">
               
               <Link
                 className="text-blue-600 font-bold"
