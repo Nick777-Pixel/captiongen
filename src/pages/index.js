@@ -172,7 +172,7 @@ export default function Home() {
               </Link>
             </span>
           </div>
-          <div className="flex flex-row w-fit gap-6">
+          <div className=" ">
             <Link href=" " target={"_blank"}>
               <svg
                 xmlns="http://www.w3.org/2000/svg"
