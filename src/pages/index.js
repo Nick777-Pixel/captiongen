@@ -18,7 +18,7 @@ export default function Home() {
   const captionsRef = useRef(null);
 
   const prompt = `Generate 2 ${selectedStyle} Instagram captions using no hashtags and clearly label them "1." and "2.". ${
-    selectedStyle === "Funny" && "Be funny and humorous, utilize jokes."
+    selectedStyle === "Funny" && "Be comedian, utilize jokes."
   } ${
     selectedStyle === "Creative" &&
     "Be creative and clever, utilize puns and rhyme."
